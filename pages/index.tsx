@@ -29,20 +29,25 @@ const Home: NextPage = () => {
                   <div className="w-[100px] h-px bg-gray-400"></div>
                 </div>
                 <h1 className="text-2xl sm:text-3xl md:text-5xl lg:text-6xl font-semibold leading-[40px] md:leading-[70px] lg:leading-[90px] text-white mt-6">
-                  NFTs are the most important <br/> aspect of on-boarding the next <br/> 1 billion users to web3.
+                  NFTs are the key <br/> to on-boarding the next <br/> 1 billion users to web3!
                 </h1>
                 <p className="text-gray-400 text-md sm:text-xl mt-5">
-                  Support the NFT marketplace built for L2
+                  Want to Support NFTEarth? Copy thie the DAO Safe address on Optimism: 0x78ED254b9c140c1A2BE10d2ad32C65b5f712f54b
+                  <br/> make sure you are connected to Optimism Mainnet before sending anything! 
+                  <br/>
+                  How will the funds be used? To help the on-going development of the Layer2 focused marketplace. 
+                  <br/> 
+                  NFTEarth intends to be the central hub for all things NFT related on L2, and we need all the support we can find to attract and retain top talent!
                 </p>
                 <div className="flex gap-5 justify-center mt-10">
                   <Link href="https://nftearth.exchange">
                     <button className="text-medium group-hover:text-xl text-[#FEFEFE] py-2 sm:px-8 sm:py-4 rounded bg-[#2D623F] transition ease-in-out hover:bg-opacity-[0.4] border border-[#2D623F] hover:border-[#6FE999] min-w-[150px] sm:min-w-[200px] text-sm sm:text-base">
-                      Visit Marketplace
+                      Visit NFTEarth Exchange
                     </button>
                   </Link>
                   <Link href="https://discord.gg/nftearth">
                     <button className="text-medium group-hover:text-xl text-[#FEFEFE] py-2 sm:px-8 sm:py-4 rounded bg-[#2D623F] transition ease-in-out hover:bg-opacity-[0.4] border border-[#2D623F] hover:border-[#6FE999] min-w-[150px] sm:min-w-[200px] text-sm sm:text-base">
-                      Join Us on Discord
+                      Join Discord
                     </button>
                   </Link>
                 </div>
