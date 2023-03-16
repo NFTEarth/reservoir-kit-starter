@@ -29,15 +29,14 @@ const Home: NextPage = () => {
                   <div className="w-[100px] h-px bg-gray-400"></div>
                 </div>
                 <h1 className="text-2xl sm:text-3xl md:text-5xl lg:text-6xl font-semibold leading-[40px] md:leading-[70px] lg:leading-[90px] text-white mt-6">
-                  NFTs are the key <br/> to on-boarding the next <br/> 1 billion users to web3!
+                  L2 NFTs are key <br/> to the future of web3!
                 </h1>
                 <p className="text-gray-400 text-md sm:text-xl mt-5">
-                  Want to Support NFTEarth? Copy thie the DAO Safe address on Optimism: 0x78ED254b9c140c1A2BE10d2ad32C65b5f712f54b
-                  <br/> make sure you are connected to Optimism Mainnet before sending anything! 
-                  <br/>
-                  How will the funds be used? To help the on-going development of the Layer2 focused marketplace. 
+                  Want to support NFTEarth? Copy the DAO Safe address on Optimism: 0x78ED254b9c140c1A2BE10d2ad32C65b5f712f54b
                   <br/> 
-                  NFTEarth intends to be the central hub for all things NFT related on L2, and we need all the support we can find to attract and retain top talent!
+                  Make sure you are connected to Optimism Mainnet!
+                  <br/>
+                  How will the funds be used? To help the on-going development of the Layer2 focused marketplace.
                 </p>
                 <div className="flex gap-5 justify-center mt-10">
                   <Link href="https://nftearth.exchange">
